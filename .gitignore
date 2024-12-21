@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Recording outputs and temp files
+recordings/
+*.mp4
+*.avi
+*.wav
+*.mp3
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.spec
+*.exe
+*.msi
+*.dmg
+*.pkg
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Documentation
+docs/_build/
+site/
+
+# Project-specific
+assets/recordings/
+config.local.ini
