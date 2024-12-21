@@ -8,7 +8,7 @@
 - **High-Quality Recording**: Capture your screen in HD.
 - **Customizable Options**: Choose frame rate, resolution, and output format.
 - **Minimal UI**: Simple and intuitive interface.
-- **Cross-Platform**: Works on Windows, macOS, and Linux.
+
 
 ---
 
