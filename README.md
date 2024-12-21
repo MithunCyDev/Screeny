@@ -16,7 +16,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/screeny.git](https://github.com/MithunCyDev/Screeny.git)
+   git clone https://github.com/MithunCyDev/Screeny.git
    cd screeny
    pip install -r requirements.txt
    python main.py
