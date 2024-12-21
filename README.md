@@ -22,4 +22,4 @@
    python main.py
 
 
-<img src="/assets/icons/preview.png"/>
+<img src="assets/icons/preview.png"/>
