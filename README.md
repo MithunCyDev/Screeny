@@ -20,3 +20,6 @@
    cd screeny
    pip install -r requirements.txt
    python main.py
+
+
+<img src="assets/icons/preview.png"/>
