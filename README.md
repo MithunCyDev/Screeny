@@ -1,4 +1,4 @@
-# Screeny: Python Screen Recorder App
+# Screeny: Python Windows Screen Recorder App
 
 **Screeny** is a lightweight and user-friendly screen recording application built with Python. Record your screen seamlessly and save the output for presentations, tutorials, or any purpose.
 
