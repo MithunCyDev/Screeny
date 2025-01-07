@@ -13,6 +13,8 @@ class AudioRecorder:
         self.output_file = None
         self.sample_rate = AUDIO_SAMPLE_RATE
         self.channels = AUDIO_CHANNELS
+        # Set higher gain for audio recording
+        self.gain = 2.0
         
     def start(self):
         """Start audio recording."""
